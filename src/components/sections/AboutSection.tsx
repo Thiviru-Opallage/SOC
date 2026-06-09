@@ -299,7 +299,7 @@ function ValueBlock({ data, align }: { data: (typeof VALUES)[0]; align: "left" |
       <p
         style={{
           fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
-          fontSize: "clamp(12px, 0.85vw, 13.5px)",
+          fontSize: "clamp(11px, 0.75vw, 12.5px)",
           color: "#525252",
           lineHeight: 1.75,
           maxWidth: "260px",
